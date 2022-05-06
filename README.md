@@ -1,4 +1,6 @@
 ### Hi there 👋
+![banner-github](https://user-images.githubusercontent.com/89361975/167210600-3e1a4d09-06d6-4874-a9fc-385c32986d0d.png)
+
 
 <!--
 **JoGaleano/JoGaleano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
