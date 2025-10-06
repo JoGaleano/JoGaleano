@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi 👋, I'm Jo
 
 <!--
 **JoGaleano/JoGaleano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+- 💻 Product Designer & aspiring Backend Developer  
+- 🛠️ Working with **JavaScript, TypeScript, HTML, CSS, SaaS** 
+- 🌱 Currently learning **Python & C#**  
+---
+How to reach me:  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tuusuario/)   [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://tuweb.com)
+
+---
+
+### 🚀 About me
+- Always curious, always learning.  
+- Passionate about design + code.  
+- Trying to make things simple & meaningful.
+- Pronouns: She/her
+- ⚡ Fun fact: I have two cats but I'm allergic
+
+---
