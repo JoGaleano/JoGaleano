@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 💻 Product Designer & aspiring Backend Developer  
+- 💻 Product Designer  
 - 🛠️ Working with **JavaScript, TypeScript, HTML, CSS, SaaS** 
 - 🌱 Currently learning **Python
 ---
